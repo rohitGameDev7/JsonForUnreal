@@ -1,0 +1,40 @@
+{
+ "UserInfo":[
+  {
+  "UserId":"o",
+  "FirstName":"Jayesh",
+    "Surname":"Joshi",
+    "PlayerDesc":"Into VR development and creating games",
+    "MaxGold":"21",
+    "Team":"Red"
+ },
+  {
+  "UserId":"1",
+  "FirstName":"Karishma",
+    "Surname":"Sharma",
+    "PlayerDesc":"Into dance and human resource",
+    "MaxGold":"54",
+    "Team":"Blue"
+ },
+  
+  {
+  "UserId":"2",
+  "FirstName":"Shubham",
+    "Surname":"Kothari",
+    "PlayerDesc":"Is into coding and playing video games",
+    "MaxGold":"44",
+    "Team":"Blue"
+ },
+ 
+  {
+  "UserId":"3",
+  "FirstName":"Bhavya",
+    "Surname":"Sinha",
+    "PlayerDesc":"Mad about fitness and yoga",
+    "MaxGold":"68",
+    "Team":"Red"
+ }
+  
+
+]
+}
